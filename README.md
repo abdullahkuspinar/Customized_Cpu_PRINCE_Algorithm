@@ -12,6 +12,9 @@ in terms of the number of instructions, slice registers, slice LUTs. Additionall
 instructions.
 
 Used Languages: C / Assembly Language / Verilog / Python
+
 Used IDEs: Xilinx ISE Design Suite 14.7 / Sublime Text Editor 3
+
 Used Devices: Xilinx FPGA Boards
+
 Used Operation System: Linux Elementary
