@@ -1,4 +1,4 @@
-# Custmized-Cpu
+# Customized-Cpu
 
 For a given C code, a customized processor is synthesized. FELICS, 
 Fair Evaluation of Lightweight Cryptographic Systems, PRINCE algorithm version 01 is chosen for this purpose. 
