@@ -1,4 +1,6 @@
-# Customized-Cpu
+# Customized-Cpu For VSCPU
+
+/* https://github.com/MC2SC/VerySimpleCPU-public */
 
 For a given C code, a customized processor is synthesized. FELICS, 
 Fair Evaluation of Lightweight Cryptographic Systems, PRINCE algorithm version 01 is chosen for this purpose. 
